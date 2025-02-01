@@ -1,3 +1,15 @@
+/* body {
+  opacity: 0;
+  animation: fadeIn 0.8s ease-in-out forwards;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+} */
+
+
+
+
 /* Background */
 .area {
     background: linear-gradient(to left, #8f94fb, #a4a7df);
